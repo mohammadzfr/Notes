@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on Mohammad Zafar&#39;s Beautiful Blog!</title>
+    <link>https://blog.mohammadzafar.com/tags/hugo/</link>
+    <description>Recent content in hugo on Mohammad Zafar&#39;s Beautiful Blog!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Dec 2023 17:13:29 -0600</lastBuildDate><atom:link href="https://blog.mohammadzafar.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating posts with Markdown</title>
+      <link>https://blog.mohammadzafar.com/posts/introduction/</link>
+      <pubDate>Fri, 22 Dec 2023 17:13:29 -0600</pubDate>
+      
+      <guid>https://blog.mohammadzafar.com/posts/introduction/</guid>
+      <description>This is a test post using the Hugo framework! This is made to be an overview of markdown and the general process of creating posts.
+Simple List of Markdown Commands This is bold, italic, and strikethrough text!
+This is an ordered list of my favourite programming languages:
+ C Python Javascript  This is an unordered list of my favourite foods:
+ Nihari Biryani Shawarma  This is a sample of C++ code along with syntax highlighting:</description>
+    </item>
+    
+  </channel>
+</rss>

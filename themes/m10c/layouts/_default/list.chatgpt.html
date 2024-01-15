@@ -1,0 +1,25 @@
+{{ define "main" }}
+  <article>
+    <h1>{{ .Title }}</h1>
+    <ul class="posts-list">
+      {{ range .Pages }}
+        <li class="posts-list-item">
+          <a class="posts-list-item-title" href="{{ .Permalink }}">
+            {{ .Title }}{{ if eq .Type "section" }} (Directory){{ if (index .Site.RegularPages .RelPermalink) }} - {{ end }}{{ end }}
+          </a>
+          {{ if eq .Type "page" }}
+            {{ with .Params.date }}
+            <span class="posts-list-item-description">
+              {{ partial "icon.html" (dict "ctx" $ "name" "calendar") }}
+              {{ .Format "Jan 2, 2006" }}
+              <span class="posts-list-item-separator">-</span>
+              {{ partial "icon.html" (dict "ctx" $ "name" "clock") }}
+              {{ with .ReadingTime }}{{ . }} min read{{ end }}
+            </span>
+            {{ end }}
+          {{ end }}
+        </li>
+      {{ end }}
+    </ul>
+  </article>
+{{ end }}

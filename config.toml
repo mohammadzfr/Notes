@@ -1,0 +1,55 @@
+baseURL = 'https://blog.mohammadzafar.com'
+languageCode = 'en-us'
+title = "Mohammad Zafar's University Notes"
+
+# theme = 'ananke'
+# theme = 'lugo'
+ theme = 'm10c'
+paginate = 8
+pluralizelisttitles = false
+
+[menu]
+  [[menu.main]]
+    identifier = "portfolio"
+    name = "Portfolio"
+    url = "https://mohammadzafar.com"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+  [[menu.main]]
+    identifier = "notes"
+    name = "Notes"
+    url = "/"
+    weight = 2    
+  [params]
+    author = "Mohammad Zafar"
+    description = "My notes written in Markdown when I'm free to post them. \n\nTo navigate, click on the semester (e.g. W2024) and class (e.g. ECON 100)"
+    avatar = "/Cleaner-Signature.png"
+    menu_item_separator = " ~ "
+    favicon = "/favicon.ico"
+    [[params.social]]
+      icon = "github"
+      name = "Github"
+      url = "https://github.com/mohammadzfr"
+    [[params.social]]
+      icon = "linkedin"
+      name = "LinkedIn"
+      url = "https://linkedin.com/in/mohammad-zfr"
+    [[params.social]]
+      icon = "mail"
+      name = "Email"
+      url = "mailto:maz271@uregina.ca"
+
+
+  # My Theme
+    [params.style]
+      #darkestColor = "#242930"
+      darkestColor = "#202731"
+      #darkColor = "#353b43"
+      darkColor = "#3d4756"
+      lightColor = "#afbac4"
+      lightestColor = "#ffffff"
+      primaryColor = "#60e160"

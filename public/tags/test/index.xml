@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test on Cool Blog Site</title>
+    <link>https://blog.mohammadzafar.com/tags/test/</link>
+    <description>Recent content in test on Cool Blog Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Dec 2023 17:13:29 -0600</lastBuildDate><atom:link href="https://blog.mohammadzafar.com/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>https://blog.mohammadzafar.com/posts/introduction/</link>
+      <pubDate>Fri, 22 Dec 2023 17:13:29 -0600</pubDate>
+      
+      <guid>https://blog.mohammadzafar.com/posts/introduction/</guid>
+      <description>Introduction This is bold text
+using namespace std; int main() { cout &amp;lt;&amp;lt; &amp;#34;Hello World!&amp;#34; &amp;lt;&amp;lt; endl; } Thanks!</description>
+    </item>
+    
+  </channel>
+</rss>
