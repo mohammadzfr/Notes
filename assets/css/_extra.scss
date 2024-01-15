@@ -12,6 +12,7 @@ body {
 }
 
 .toc {
+  box-sizing: border-box;
   border-left: 1px solid #ddd;
   padding-left: 10px;
   margin-top: 40px;
@@ -28,10 +29,6 @@ body {
   padding: 0;
 }
 
-.toc li {
-  margin-bottom: 5px;
-}
-
 @media (min-width: 940px) {
   
   .page-container {
@@ -42,8 +39,6 @@ body {
 
   .toc {
     width: 225px; /* Adjust the width according to your preference */
-    // padding: 20px;
-    box-sizing: border-box;
     position: sticky;
     top: 30px;
   }

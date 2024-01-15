@@ -3,6 +3,7 @@ title: "Test"
 date: 2024-01-14T22:20:14-06:00
 toc: true
 ---
+This file is simply made to test if Hugo is rendering my Markdown files correctly. If there are any issues with how the file looks, email me.
 
 # Quo miles
 
@@ -31,8 +32,8 @@ Mihi non, subiti ilia, includere fecunda infectas ducunt. Ut per alter profundo,
 sua carceris de quae, est. Inque verbere.
 
 ## Illi atris subiectis transformata rotae
-### inline header babyyy
-#### another one
+### Lorem Ipsum
+#### Itael Lora
 Omnibus necem primus de limina **in ignis** adit, quaedam. Cunctos invergens a
 delicuit sensit: *nec auras inponit* nec durus animoque deducit manentem?
 **Profugos alter**, fontibus o *voxque stamen*, non risit.
