@@ -26,7 +26,7 @@ pluralizelisttitles = false
     weight = 2    
   [params]
     author = "Mohammad Zafar"
-    description = "My notes written in Markdown and Latex when I feel like posting them. To navigate, click on the semester (e.g. W2024) and class (e.g. ECON 100)."
+    description = "My notes written in Markdown and Latex when I'm free to post them. To navigate, click on the semester (e.g. W2024) and class (e.g. ECON 100)."
     avatar = "/Cleaner-Signature.png"
     menu_item_separator = " / "
     favicon = "/favicon.ico"
