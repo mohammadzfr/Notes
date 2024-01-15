@@ -30,6 +30,7 @@ pluralizelisttitles = false
     avatar = "/Cleaner-Signature.png"
     menu_item_separator = " ~ "
     favicon = "/favicon.ico"
+    toc = true
     [[params.social]]
       icon = "github"
       name = "Github"
@@ -42,6 +43,13 @@ pluralizelisttitles = false
       icon = "mail"
       name = "Email"
       url = "mailto:maz271@uregina.ca"
+
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 4
+    startLevel = 1
+
 
 
   # My Theme
