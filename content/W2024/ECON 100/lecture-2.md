@@ -6,8 +6,15 @@ katex: true
 ---
 
 ## Summary
-- Economics gives you a toolkit to study choices and solve problems
-
+- **Economics** gives you a toolkit to study choices and solve problems
+- There are **Four Core Principles** that govern the choices made in economics
+- **Cost Benefit Principle:** Using costs + benefits to shape decisions
+- **Willingness to Pay** is a way to convert nonfinancial costs to monetary benefit
+- **Economic Surplus** is when the benefits exceed the cost of a choice
+- Good economists avoid **Framing techniques**
+- **Opportunity Cost Principle:** The true cost of something is the next best alternative you have to give up to get it.
+- **Scarcity** affects what choices we have since we have a finite amount of resources
+- **Sunk Cost** is an expense that is incurred regardless of the choice made
 
 ## What is Economics?
 **Economics** is simply the study of choices.
