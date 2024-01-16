@@ -3,6 +3,7 @@ title: "Lecture 2: What is Economics? + Four Core Principles"
 date: 2024-01-11T22:21:42-06:00
 toc: true
 katex: true
+tags: ["econ"]
 ---
 
 ## Summary

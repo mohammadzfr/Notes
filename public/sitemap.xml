@@ -104,7 +104,13 @@
     <loc>https://school.mohammadzafar.com/test-file/</loc>
     <lastmod>2024-01-14T22:20:14-06:00</lastmod>
   </url><url>
+    <loc>https://school.mohammadzafar.com/tags/econ/</loc>
+    <lastmod>2024-01-11T22:21:42-06:00</lastmod>
+  </url><url>
     <loc>https://school.mohammadzafar.com/w2024/econ-100/lecture-2/</loc>
+    <lastmod>2024-01-11T22:21:42-06:00</lastmod>
+  </url><url>
+    <loc>https://school.mohammadzafar.com/tags/</loc>
     <lastmod>2024-01-11T22:21:42-06:00</lastmod>
   </url><url>
     <loc>https://school.mohammadzafar.com/w2024/econ-100/lecture-1/</loc>
@@ -156,7 +162,5 @@
     <lastmod>2021-08-30T12:00:00+00:00</lastmod>
   </url><url>
     <loc>https://school.mohammadzafar.com/categories/</loc>
-  </url><url>
-    <loc>https://school.mohammadzafar.com/tags/</loc>
   </url>
 </urlset>
