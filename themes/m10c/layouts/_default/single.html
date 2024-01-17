@@ -33,6 +33,7 @@
         {{ .Content }}
       </div>
       <div class="post-footer">
+        {{ if .Param "nextprev" }}{{ partial "nextprev.html" . -}}{{ end -}}
         {{ template "_internal/disqus.html" . }}
       </div>
     </article>

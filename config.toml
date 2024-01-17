@@ -30,7 +30,7 @@ pluralizelisttitles = false
     avatar = "/Cleaner-Signature.png"
     menu_item_separator = " / "
     favicon = "/favicon.ico"
-    toc = true
+    nextprev = true
     [[params.social]]
       icon = "github"
       name = "Github"
