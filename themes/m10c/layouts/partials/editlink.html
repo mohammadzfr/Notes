@@ -3,7 +3,7 @@
 .File.Path }} {{ $editURL := printf "%s%s" $githubBaseURL $filePath }}
 <div id="edit">
   <a href="{{ $editURL }}" target="_blank" rel="noopener noreferrer"
-    >{{ partial "icon.html" (dict "ctx" $ "name" "github") }} Edit this page</a
+    ><strong>{{ partial "icon.html" (dict "ctx" $ "name" "edit") }} Edit this page</strong></a
   >
 </div>
 {{ end }}
