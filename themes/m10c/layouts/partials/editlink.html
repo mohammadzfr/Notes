@@ -1,0 +1,9 @@
+{{ if .Params.edit }} {{ $githubBaseURL :=
+"https://github.com/mohammadzfr/Notes/tree/main/content/" }} {{ $filePath :=
+.File.Path }} {{ $editURL := printf "%s%s" $githubBaseURL $filePath }}
+<div id="edit">
+  <a href="{{ $editURL }}" target="_blank" rel="noopener noreferrer"
+    >{{ partial "icon.html" (dict "ctx" $ "name" "github") }} Edit this page</a
+  >
+</div>
+{{ end }}
