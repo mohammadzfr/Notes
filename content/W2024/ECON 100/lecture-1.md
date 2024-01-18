@@ -3,6 +3,7 @@ title: "Lecture 1: Introduction"
 date: 2024-01-09T22:20:14-06:00
 toc: true
 tags: ["econ"]
+edit: true
 ---
 
 ## Summary
