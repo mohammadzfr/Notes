@@ -101,3 +101,5 @@ According to the **Interdependence Principle**, the best choices depends on:
     - Doing something today shapes future decisions
 
 
+## Personal Note
+- A bunch of people just left class early, felt bad for prof

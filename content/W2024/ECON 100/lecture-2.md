@@ -118,3 +118,5 @@ and cannot be reversed.
 > - Leave immediately and do something else with your time?
 >
 > The smart choice is to **leave immediately**. Regardless of whether or not you wait for the end of the movie, you have lost $15. Therefore use your time wisely and do something else.
+## Personal Note
+- Don't watch bad movies kids.
