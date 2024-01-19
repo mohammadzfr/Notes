@@ -6,7 +6,6 @@ toc: true
 katex: true
 edit: true
 ---
-**NOTE:** I left out the last part of today's lecture (Beginning of Demand Curve Shifts) because it's more cohesive to sum it up with the next lecture.
 
 ## Summary
 ### Individual Demand Takeaways
@@ -110,4 +109,5 @@ If there is a change in price, simply **move along the curve to the desired quan
 - You **DO NOT** need to create a new curve and survey to see price impact
 - As price changes and a point on the demand curve moves, **change in quantity** is demanded
 ## Personal Note
+- I left out the last part of today's lecture (Beginning of Demand Curve Shifts) because it's more cohesive to sum it up with the next lecture.
 - This lecture was pretty fun, the prof abused a poor guy with a bunch of chocolate
