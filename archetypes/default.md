@@ -8,3 +8,5 @@ edit: true
 ---
 
 ## Summary
+
+## Personal Note
