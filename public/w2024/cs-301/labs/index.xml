@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Labs on Mohammad Zafar&#39;s University Notes</title>
+    <link>https://school.mohammadzafar.com/w2024/cs-301/labs/</link>
+    <description>Recent content in Labs on Mohammad Zafar&#39;s University Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Jan 2024 12:00:00 +0000</lastBuildDate><atom:link href="https://school.mohammadzafar.com/w2024/cs-301/labs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lab 2</title>
+      <link>https://school.mohammadzafar.com/w2024/cs-301/labs/lab-2/</link>
+      <pubDate>Tue, 23 Jan 2024 18:10:12 -0600</pubDate>
+      
+      <guid>https://school.mohammadzafar.com/w2024/cs-301/labs/lab-2/</guid>
+      <description>Summary Personal Note </description>
+    </item>
+    
+  </channel>
+</rss>
