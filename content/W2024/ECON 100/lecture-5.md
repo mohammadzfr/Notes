@@ -1,6 +1,6 @@
 ---
 title: "Lecture 5: Shifting Demand Curves"
-date: 2024-01-24T23:19:33-06:00
+date: 2024-01-23T23:19:33-06:00
 tags: ["econ"]
 toc: true
 katex: true
